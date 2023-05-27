@@ -1,0 +1,101 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body{
+    
+    margin-top: 20px;
+    margin-left:10px;
+    padding:0;
+    width:250px;
+    height:100%;
+    border-radius: 10px;
+
+}
+h1{
+    
+    margin-bottom:20px;
+    margin-top: 40px;
+    font-family: Arial;
+    margin-left: 20px;
+    
+}
+.personal .post{
+    margin:10px;
+    width:300px;
+    height:50px;
+}
+
+.personal .story{
+    margin:10px;
+    width:300px;
+    height:50px;
+}
+.personal .reel{
+    margin:10px;
+    width:300px;
+    height:50px;
+}
+.personal .room{
+    margin:10px;
+    width:300px;
+    height:50px;
+}
+.personal .story{
+    margin-left:10px;
+    width:300px;
+    height:50px;
+}
+.personal .flag{
+    margin:10px;
+    width:300px;
+    height:50px;
+}
+.personal .page{
+    margin:10px;
+    width:300px;
+    height:50px;
+}
+.personal .group{
+    margin:10px;
+    width:300px;
+    height:50px;
+}
+.personal .event{
+    margin:10px;
+    width:300px;
+    height:50px;
+}
+.personal .market{
+    margin:10px;
+    width:300px;
+    height:50px;
+}
+hr{
+    margin:10px;
+    
+    color: grey;
+}
+
+.personal img{
+    width: 30px;
+    height:30px;
+    float:left;
+    margin-right:20px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.personal .para{
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+
+}
+
+
+h1{
+    padding:2px;
+    margin:5px;
+    display: flex;
+}

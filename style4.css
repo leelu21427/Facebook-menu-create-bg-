@@ -1,0 +1,149 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.personal img{
+    width: 35px;
+    height:35px;
+    float:left;
+}
+.personal .para{
+    font-size: 16px;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:10px;
+    display: inline-block;
+
+}
+h5{
+    margin-left:40px;
+    margin-top:20px;
+}
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom:20px;
+    margin-top:10px;
+    font-size: 20px;
+    margin:5px;
+}
+.personal .in
+{
+    margin-left:45px;
+    color:grey;
+    font-size:15px;
+    margin-top:2px;
+    line-height:10px;
+}
+.professional img{
+    width: 35px;
+    height:35px;
+    float:left;
+}
+.line
+{
+    border-top:1px solid #222;
+    opacity:0.2;
+    margin-top:20px;
+    margin:5px;
+}
+.professional .para
+{
+    font-size: 16px;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:10px;
+    display: inline-block;
+}
+.professional .in
+{
+    margin-left:45px;
+    color:grey;
+    font-size:15px;
+    margin-top:2px;
+    line-height:10px;
+}
+.Community .para
+{
+    font-size: 16px;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:10px;
+    display: inline-block;
+}
+.Community .in
+{
+    margin-left:45px;
+    color:grey;
+    font-size:15px;
+    margin-top:2px;
+    line-height:10px;
+}
+.Community img{
+    width: 35px;
+    height:35px;
+    float:left;
+}
+.entertain .para
+{
+    font-size: 16px;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:10px;
+    display: inline-block;
+}
+.entertain .in
+{
+    margin-left:45px;
+    color:grey;
+    font-size:15px;
+    margin-top:2px;
+    line-height:10px;
+}
+.entertain img{
+    width: 35px;
+    height:35px;
+    float:left;
+}
+.shop .para
+{
+    font-size: 16px;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:10px;
+    display: inline-block;
+}
+.shop .in
+{
+    margin-left:45px;
+    color:grey;
+    font-size:15px;
+    margin-top:2px;
+    line-height:10px;
+}
+.shop img{
+    width: 35px;
+    height:35px;
+    float:left;
+}
+.recent .para
+{
+    font-size: 16px;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:10px;
+    display: inline-block;
+}
+.recent .in
+{
+    margin-left:45px;
+    color:grey;
+    font-size:15px;
+    margin-top:2px;
+    line-height:10px;
+}
+.recent img{
+    width: 35px;
+    height:35px;
+    float:left;
+}
